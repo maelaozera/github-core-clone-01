@@ -1,0 +1,1 @@
+{"description":"A standalone GitHub-compatible git forge: one process serving git smart HTTP, REST v3, GraphQL v4 and MCP from its own store.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"forge","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
